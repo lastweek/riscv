@@ -1,0 +1,21 @@
+[submodule "spike/riscv-isa-sim"]
+	path = spike/riscv-isa-sim
+	url = https://github.com/riscv/riscv-isa-sim
+[submodule "riscv-platform-specs"]
+	path = riscv-platform-specs
+	url = https://github.com/riscv/riscv-platform-specs
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/riscv/riscv-gnu-toolchain
+[submodule "source-glibc"]
+	path = source-glibc
+	url = https://github.com/lastweek/source-glibc
+[submodule "riscv-proxy-kernel/riscv-pk"]
+	path = riscv-proxy-kernel/riscv-pk
+	url = https://github.com/riscv/riscv-pk
+[submodule "riscv-probe/riscv-probe"]
+	path = riscv-probe/riscv-probe
+	url = https://github.com/michaeljclark/riscv-probe
+[submodule "riscv-qemu/source-qemu"]
+	path = riscv-qemu/source-qemu
+	url = https://github.com/lastweek/source-qemu
