@@ -19,3 +19,6 @@
 [submodule "riscv-qemu/source-qemu"]
 	path = riscv-qemu/source-qemu
 	url = https://github.com/lastweek/source-qemu
+[submodule "chipyard/chipyard"]
+	path = chipyard/chipyard
+	url = https://github.com/ucb-bar/chipyard
