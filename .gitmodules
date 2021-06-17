@@ -22,3 +22,27 @@
 [submodule "chipyard/chipyard"]
 	path = chipyard/chipyard
 	url = https://github.com/ucb-bar/chipyard
+[submodule "linux-kernel/linux"]
+	path = linux-kernel/linux
+	url = https://github.com/torvalds/linux
+[submodule "freedom-metal/freedom-metal"]
+	path = freedom-metal/freedom-metal
+	url = https://github.com/sifive/freedom-metal
+[submodule "firmware/edk2"]
+	path = firmware/edk2
+	url = https://github.com/tianocore/edk2
+[submodule "firmware/edk2-platforms"]
+	path = firmware/edk2-platforms
+	url = https://github.com/tianocore/edk2-platforms
+[submodule "firmware/u-boot"]
+	path = firmware/u-boot
+	url = https://github.com/u-boot/u-boot
+[submodule "firmware/riscv-smbios"]
+	path = firmware/riscv-smbios
+	url = https://github.com/riscv/riscv-smbios
+[submodule "firmware/riscv-plic-spec"]
+	path = firmware/riscv-plic-spec
+	url = https://github.com/riscv/riscv-plic-spec
+[submodule "firmware/opensbi"]
+	path = firmware/opensbi
+	url = https://github.com/riscv/opensbi
