@@ -65,3 +65,7 @@ https://github.com/lastweek/source-qemu/blob/master/src/target/riscv/pmp.c
 
 
 How it interleaves with binary translation?
+
+### Firmware
+
+So the default firmware in QEMU + RISCV is the OpenSBI.

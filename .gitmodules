@@ -46,3 +46,6 @@
 [submodule "firmware/opensbi"]
 	path = firmware/opensbi
 	url = https://github.com/riscv/opensbi
+[submodule "riscv-boom"]
+	path = riscv-boom
+	url = https://github.com/riscv-boom/riscv-boom
